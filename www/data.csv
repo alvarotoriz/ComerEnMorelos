@@ -1,0 +1,11 @@
+fmid,marketName,website,street,city,county,state,zip,x,y,location,credit,wic,wiccash,sfmnp,snap,bakedgoods,cheese,crafts,flowers,seafood,fruit,herbs,vegetables,honey,jams,maple,meat,nuts,plants,prepared,soap,index,email
+1,Los Vikingos Cuernavaca,http://www.losvikingos.com.mx/index.html,"Blvd. Juárez, esquina Oaxaca ",Cuernavaca ,Col. Las Palmas ,Morelos  ,62050,-99.231724,18.907027,(777) 312 85 84 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,confured@yahoo.com.mx
+2,Los Vikingos Jiutepec,http://losvikingos.com.mx/civac.html,Calle 23 Este 2 ,Jiutepec ,Col. Civac ,Morelos ,62578,-99.1694208,18.9107679,(777) 321 23 93 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,
+3,Parrilla Las Leñas,http://xn--parrillalasleas-brb.com/,José María Morelos (Av. Morelos Sur) 100 ,Cuernavaca ,Col. Quintana Roo ,Morelos  ,62070,-99.231353,18.901689,(777) 318 82 21 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,parrillalaslenas@gmail.com
+4,Mi Gusto Es,http://www.migustoes.com.mx/migustoes_cuernavaca.html,San Diego 12 ,Cuernavaca ,Col. Extensión Vista Hermosa ,Morelos  ,62295,-99.2134077,18.9413144,(777) 322 43 57 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,cuernavaca@migustoes.com.mx
+5,Los Colorines,,Tepozteco 13 ,Tepoztlán ,Col. Centro ,Morelos ,62525,-99.1011649,18.9864592,(739) 395 01 98 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,
+6,Hotel La Palapa,,,Alpuyeca ,,Morelos ,62790,-99.262614,18.73226,(777) 391 56 35 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,informes@hotellapalapa.com.mx 
+7,La Luna Mextli,http://lalunamextlitepoztlanmorelos.scoom.com/,Av. Revolución de 1910 16 ,Tepoztlán ,Col. Centro ,Morelos ,62520,-99.1010695,18.9850216,(739) 395 20 67 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,lalunamextli@yahoo.com.mx
+8,Océano Dorado,http://www.eloceanodorado.com/,Calle Fortalecimiento Municipal Libramiento a Burgos ,Temixco ,Col. Las Animas ,Morelos ,62583,-99.2223649,18.8591944,(777) 326 24 12 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,
+9,El Mirador,,Calle 5 de Mayo 7 ,Tlayacapan ,,Morelos ,62540,-98.983427,18.954594,,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,
+10,Las Uvas Excelaris Grand Resort Conventions & SPA,http://www.excelarisplaza.com/,Av. Circunvalación 37 ,Tequesquitengo ,,Morelos ,62915,-99.2565099,18.625074,(734) 112 31 21 ,Y,N,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,,informes@excelarisplaza.com
